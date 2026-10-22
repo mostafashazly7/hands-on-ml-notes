@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Book-Hands--On%20ML%203rd%20Ed.-58a6ff?style=for-the-badge&labelColor=0d1117" alt="book"/>
   <img src="https://img.shields.io/badge/Language-Arabic%20%2B%20English-7ee787?style=for-the-badge&labelColor=0d1117" alt="language"/>
   <img src="https://img.shields.io/badge/Chapters-4%20%2F%2019-f0883e?style=for-the-badge&labelColor=0d1117" alt="progress"/>
-  <img src="https://img.shields.io/github/last-commit/mostafashazly7/handson-ml-notes?style=for-the-badge&color=a78bfa&labelColor=0d1117" alt="last commit"/>
+  <img src="https://img.shields.io/github/last-commit/mostafashazly7/hands-on-ml-notes?style=for-the-badge&color=a78bfa&labelColor=0d1117" alt="last commit"/>
 </p>
 
 <div dir="rtl">
@@ -27,10 +27,10 @@ Personal study notes for **Hands-On Machine Learning with Scikit-Learn, Keras & 
 
 | # | Chapter | Notes |
 |---|---|---|
-| 1 | The Machine Learning Landscape | [📄 PDF](notes/Chapter%201%20ML.pdf) |
-| 2 | End-to-End Machine Learning Project | [📄 PDF](notes/Chapter%202%20ML.pdf) |
-| 3 | Classification | [📄 PDF](notes/Chapter%203%20ML.pdf) |
-| 4 | Training Models | [📄 PDF](notes/Chapter%204%20ML.pdf) |
+| 1 | The Machine Learning Landscape | [📄 PDF](notes/Chapter%201%20ML.pdf?raw=true) |
+| 2 | End-to-End Machine Learning Project | [📄 PDF](notes/Chapter%202%20ML.pdf?raw=true) |
+| 3 | Classification | [📄 PDF](notes/Chapter%203%20ML.pdf?raw=true) |
+| 4 | Training Models | [📄 PDF](notes/Chapter%204%20ML.pdf?raw=true) |
 | 5 | Support Vector Machines | ⏳ Soon |
 | 6 | Decision Trees | ⏳ Soon |
 | 7 | Ensemble Learning and Random Forests | ⏳ Soon |
@@ -54,7 +54,7 @@ Personal study notes for **Hands-On Machine Learning with Scikit-Learn, Keras & 
 ## 🗂️ Repository Structure
 
 ```
-handson-ml-notes/
+hands-on-ml-notes/
 ├── README.md
 ├── .gitignore
 ├── assets/
