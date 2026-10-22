@@ -1,0 +1,23 @@
+# Never upload the book itself (copyright)
+Hands-On*.pdf
+Hands_On*.pdf
+hands-on*.pdf
+*book*.pdf
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Archives
+*.zip
+*.rar
