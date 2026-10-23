@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Book-Hands--On%20ML%203rd%20Ed.-58a6ff?style=for-the-badge&labelColor=0d1117" alt="book"/>
   <img src="https://img.shields.io/badge/Language-Arabic%20%2B%20English-7ee787?style=for-the-badge&labelColor=0d1117" alt="language"/>
-  <img src="https://img.shields.io/badge/Chapters-4%20%2F%2019-f0883e?style=for-the-badge&labelColor=0d1117" alt="progress"/>
+  <img src="https://img.shields.io/badge/Chapters-5%20%2F%2019-f0883e?style=for-the-badge&labelColor=0d1117" alt="progress"/>
   <img src="https://img.shields.io/badge/Pages-140-58a6ff?style=for-the-badge&labelColor=0d1117" alt="pages"/>
   <img src="https://img.shields.io/github/last-commit/mostafashazly7/hands-on-ml-notes?style=for-the-badge&color=a78bfa&labelColor=0d1117" alt="last commit"/>
 </p>
@@ -40,11 +40,11 @@ Each chapter PDF mixes **my handwritten notes**, **completed missing points**, *
 
 | # | Chapter | Pages | Notes |
 |---|---|---|---|
-| 1 | The Machine Learning Landscape | 24 | [📄 PDF](notes/Chapter%201%20ML.pdf?raw=true) |
-| 2 | End-to-End Machine Learning Project | 36 | [📄 PDF](notes/Chapter%202%20ML.pdf?raw=true) |
-| 3 | Classification | 23 | [📄 PDF](notes/Chapter%203%20ML.pdf?raw=true) |
-| 4 | Training Models | 35 | [📄 PDF](notes/Chapter%204%20ML.pdf?raw=true) |
-| 5 | Support Vector Machines | 22 | [📄 PDF](notes/Chapter%205%20ML.pdf?raw=true) |
+| 1 | The Machine Learning Landscape | 24 | [📄 View](https://github.com/mostafashazly7/hands-on-ml-notes/blob/main/notes/Chapter%201%20ML.pdf) · [⬇️ Download](https://github.com/mostafashazly7/hands-on-ml-notes/raw/main/notes/Chapter%201%20ML.pdf) |
+| 2 | End-to-End Machine Learning Project | 36 | [📄 View](https://github.com/mostafashazly7/hands-on-ml-notes/blob/main/notes/Chapter%202%20ML.pdf) · [⬇️ Download](https://github.com/mostafashazly7/hands-on-ml-notes/raw/main/notes/Chapter%202%20ML.pdf) |
+| 3 | Classification | 23 | [📄 View](https://github.com/mostafashazly7/hands-on-ml-notes/blob/main/notes/Chapter%203%20ML.pdf) · [⬇️ Download](https://github.com/mostafashazly7/hands-on-ml-notes/raw/main/notes/Chapter%203%20ML.pdf) |
+| 4 | Training Models | 35 | [📄 View](https://github.com/mostafashazly7/hands-on-ml-notes/blob/main/notes/Chapter%204%20ML.pdf) · [⬇️ Download](https://github.com/mostafashazly7/hands-on-ml-notes/raw/main/notes/Chapter%204%20ML.pdf) |
+| 5 | Support Vector Machines | 22 | [📄 View](https://github.com/mostafashazly7/hands-on-ml-notes/blob/main/notes/Chapter%205%20ML.pdf) · [⬇️ Download](https://github.com/mostafashazly7/hands-on-ml-notes/raw/main/notes/Chapter%205%20ML.pdf) |
 | 6 | Decision Trees | — | ⏳ Soon |
 | 7 | Ensemble Learning and Random Forests | — | ⏳ Soon |
 | 8 | Dimensionality Reduction | — | ⏳ Soon |
@@ -78,7 +78,8 @@ hands-on-ml-notes/
     ├── Chapter 1 ML.pdf
     ├── Chapter 2 ML.pdf
     ├── Chapter 3 ML.pdf
-    └── Chapter 4 ML.pdf
+    ├── Chapter 4 ML.pdf
+    └── Chapter 5 ML.pdf
 ```
 
 ## 🧭 How to Use
