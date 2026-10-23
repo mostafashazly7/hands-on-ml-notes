@@ -44,7 +44,7 @@ Each chapter PDF mixes **my handwritten notes**, **completed missing points**, *
 | 2 | End-to-End Machine Learning Project | 36 | [📄 PDF](notes/Chapter%202%20ML.pdf?raw=true) |
 | 3 | Classification | 23 | [📄 PDF](notes/Chapter%203%20ML.pdf?raw=true) |
 | 4 | Training Models | 35 | [📄 PDF](notes/Chapter%204%20ML.pdf?raw=true) |
-| 5 | Support Vector Machines | — | ⏳ Soon |
+| 5 | Support Vector Machines | 22 | [📄 PDF](notes/Chapter%205%20ML.pdf?raw=true) |
 | 6 | Decision Trees | — | ⏳ Soon |
 | 7 | Ensemble Learning and Random Forests | — | ⏳ Soon |
 | 8 | Dimensionality Reduction | — | ⏳ Soon |
