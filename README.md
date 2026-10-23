@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Book-Hands--On%20ML%203rd%20Ed.-58a6ff?style=for-the-badge&labelColor=0d1117" alt="book"/>
   <img src="https://img.shields.io/badge/Language-Arabic%20%2B%20English-7ee787?style=for-the-badge&labelColor=0d1117" alt="language"/>
   <img src="https://img.shields.io/badge/Chapters-4%20%2F%2019-f0883e?style=for-the-badge&labelColor=0d1117" alt="progress"/>
-  <img src="https://img.shields.io/badge/Pages-118-58a6ff?style=for-the-badge&labelColor=0d1117" alt="pages"/>
+  <img src="https://img.shields.io/badge/Pages-140-58a6ff?style=for-the-badge&labelColor=0d1117" alt="pages"/>
   <img src="https://img.shields.io/github/last-commit/mostafashazly7/hands-on-ml-notes?style=for-the-badge&color=a78bfa&labelColor=0d1117" alt="last commit"/>
 </p>
 
