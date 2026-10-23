@@ -35,15 +35,17 @@ Each chapter PDF mixes **my handwritten notes**, **completed missing points**, *
 
 ---
 
-## 📚 Chapters
+📚 Chapters
+
+> 💡 **Tip:** If GitHub's viewer fails to render the PDF (`📄 View`), click on **`⬇️ Download`** to open and view the file directly in your browser without downloading it to your disk.
 
 | # | Chapter | 🇪🇬 Arabic | 🇬🇧 English |
 |---|---|---|---|
-| 1 | The Machine Learning Landscape | [📄 View](https://github.com/mostafashazly7/hands-on-ml-notes/blob/main/notes%20arb/Chapter%201%20ML.pdf) · [⬇️ Download](https://github.com/mostafashazly7/hands-on-ml-notes/raw/main/notes%20arb/Chapter%201%20ML.pdf) | [📄 View](https://github.com/mostafashazly7/hands-on-ml-notes/blob/main/notes%20eng/Chapter%201%20ML.pdf) · [⬇️ Download](https://github.com/mostafashazly7/hands-on-ml-notes/raw/main/notes%20eng/Chapter%201%20ML.pdf) |
-| 2 | End-to-End Machine Learning Project | [📄 View](https://github.com/mostafashazly7/hands-on-ml-notes/blob/main/notes%20arb/Chapter%202%20ML.pdf) · [⬇️ Download](https://github.com/mostafashazly7/hands-on-ml-notes/raw/main/notes%20arb/Chapter%202%20ML.pdf) | [📄 View](https://github.com/mostafashazly7/hands-on-ml-notes/blob/main/notes%20eng/Chapter%202%20ML.pdf) · [⬇️ Download](https://github.com/mostafashazly7/hands-on-ml-notes/raw/main/notes%20eng/Chapter%202%20ML.pdf) |
-| 3 | Classification | [📄 View](https://github.com/mostafashazly7/hands-on-ml-notes/blob/main/notes%20arb/Chapter%203%20ML.pdf) · [⬇️ Download](https://github.com/mostafashazly7/hands-on-ml-notes/raw/main/notes%20arb/Chapter%203%20ML.pdf) | [📄 View](https://github.com/mostafashazly7/hands-on-ml-notes/blob/main/notes%20eng/Chapter%203%20ML.pdf) · [⬇️ Download](https://github.com/mostafashazly7/hands-on-ml-notes/raw/main/notes%20eng/Chapter%203%20ML.pdf) |
-| 4 | Training Models | [📄 View](https://github.com/mostafashazly7/hands-on-ml-notes/blob/main/notes%20arb/Chapter%204%20ML.pdf) · [⬇️ Download](https://github.com/mostafashazly7/hands-on-ml-notes/raw/main/notes%20arb/Chapter%204%20ML.pdf) | [📄 View](https://github.com/mostafashazly7/hands-on-ml-notes/blob/main/notes%20eng/Chapter%204%20ML.pdf) · [⬇️ Download](https://github.com/mostafashazly7/hands-on-ml-notes/raw/main/notes%20eng/Chapter%204%20ML.pdf) |
-| 5 | Support Vector Machines | [📄 View](https://github.com/mostafashazly7/hands-on-ml-notes/blob/main/notes%20arb/Chapter%205%20ML.pdf) · [⬇️ Download](https://github.com/mostafashazly7/hands-on-ml-notes/raw/main/notes%20arb/Chapter%205%20ML.pdf) | [📄 View](https://github.com/mostafashazly7/hands-on-ml-notes/blob/main/notes%20eng/Chapter%205%20ML.pdf) · [⬇️ Download](https://github.com/mostafashazly7/hands-on-ml-notes/raw/main/notes%20eng/Chapter%205%20ML.pdf) |
+| 1 | The Machine Learning Landscape | [📄 View](./notes%20arb/Chapter%201%20ML.pdf) · [⬇️ Download](./notes%20arb/Chapter%201%20ML.pdf?raw=true) | [📄 View](./notes%20eng/Chapter%201%20ML.pdf) · [⬇️ Download](./notes%20eng/Chapter%201%20ML.pdf?raw=true) |
+| 2 | End-to-End Machine Learning Project | [📄 View](./notes%20arb/Chapter%202%20ML.pdf) · [⬇️ Download](./notes%20arb/Chapter%202%20ML.pdf?raw=true) | [📄 View](./notes%20eng/Chapter%202%20ML.pdf) · [⬇️ Download](./notes%20eng/Chapter%202%20ML.pdf?raw=true) |
+| 3 | Classification | [📄 View](./notes%20arb/Chapter%203%20ML.pdf) · [⬇️ Download](./notes%20arb/Chapter%203%20ML.pdf?raw=true) | [📄 View](./notes%20eng/Chapter%203%20ML.pdf) · [⬇️ Download](./notes%20eng/Chapter%203%20ML.pdf?raw=true) |
+| 4 | Training Models | [📄 View](./notes%20arb/Chapter%204%20ML.pdf) · [⬇️ Download](./notes%20arb/Chapter%204%20ML.pdf?raw=true) | [📄 View](./notes%20eng/Chapter%204%20ML.pdf) · [⬇️ Download](./notes%20eng/Chapter%204%20ML.pdf?raw=true) |
+| 5 | Support Vector Machines | [📄 View](./notes%20arb/Chapter%205%20ML.pdf) · [⬇️ Download](./notes%20arb/Chapter%205%20ML.pdf?raw=true) | [📄 View](./notes%20eng/Chapter%205%20ML.pdf) · [⬇️ Download](./notes%20eng/Chapter%205%20ML.pdf?raw=true) |
 | 6 | Decision Trees | ⏳ Soon | ⏳ Soon |
 | 7 | Ensemble Learning and Random Forests | ⏳ Soon | ⏳ Soon |
 | 8 | Dimensionality Reduction | ⏳ Soon | ⏳ Soon |
