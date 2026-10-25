@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
   <img src="./assets/header.svg" width="100%" alt="Hands-On ML Notes - Arabic and English study notes"/>
 </div>
 
@@ -37,20 +37,16 @@ Each chapter PDF mixes **my handwritten notes**, **completed missing points**, *
 
 ## 📚 Chapters
 
-> 💡 **Tip:** If GitHub's viewer fails to render the PDF (`📄 View`), click on **`⬇️ Download`** to open and view the file directly in your browser without downloading it to your disk.
-
-## 📚 Chapters
-
-> 💡 **Tip:** If GitHub's viewer fails to render the PDF (`📄 View`), click on **`⬇️ Download`** to open and view the file directly in your browser without downloading it to your disk.
+> 💡 **Tip:** **📄 View** opens the PDF in a standalone PDF viewer (PDF.js), so it works even when GitHub's built-in preview fails. **⬇️ Download** gives you the raw file.
 
 | # | Chapter | 🇪🇬 Arabic | 🇬🇧 English |
 |---|---|---|---|
-| 1 | The Machine Learning Landscape | [📄 View](https://github.com/mostafashazly7/hands-on-ml-notes/blob/main/notes%20arb/Chapter%201%20ML.pdf) · [⬇️ Download](https://github.com/mostafashazly7/hands-on-ml-notes/raw/main/notes%20arb/Chapter%201%20ML.pdf) | [📄 View](https://github.com/mostafashazly7/hands-on-ml-notes/blob/main/notes%20eng/Chapter%201%20ML.pdf) · [⬇️ Download](https://github.com/mostafashazly7/hands-on-ml-notes/raw/main/notes%20eng/Chapter%201%20ML.pdf) |
-| 2 | End-to-End Machine Learning Project | [📄 View](https://github.com/mostafashazly7/hands-on-ml-notes/blob/main/notes%20arb/Chapter%202%20ML.pdf) · [⬇️ Download](https://github.com/mostafashazly7/hands-on-ml-notes/raw/main/notes%20arb/Chapter%202%20ML.pdf) | [📄 View](https://github.com/mostafashazly7/hands-on-ml-notes/blob/main/notes%20eng/Chapter%202%20ML.pdf) · [⬇️ Download](https://github.com/mostafashazly7/hands-on-ml-notes/raw/main/notes%20eng/Chapter%202%20ML.pdf) |
-| 3 | Classification | [📄 View](https://github.com/mostafashazly7/hands-on-ml-notes/blob/main/notes%20arb/Chapter%203%20ML.pdf) · [⬇️ Download](https://github.com/mostafashazly7/hands-on-ml-notes/raw/main/notes%20arb/Chapter%203%20ML.pdf) | [📄 View](https://github.com/mostafashazly7/hands-on-ml-notes/blob/main/notes%20eng/Chapter%203%20ML.pdf) · [⬇️ Download](https://github.com/mostafashazly7/hands-on-ml-notes/raw/main/notes%20eng/Chapter%203%20ML.pdf) |
-| 4 | Training Models | [📄 View](https://github.com/mostafashazly7/hands-on-ml-notes/blob/main/notes%20arb/Chapter%204%20ML.pdf) · [⬇️ Download](https://github.com/mostafashazly7/hands-on-ml-notes/raw/main/notes%20arb/Chapter%204%20ML.pdf) | [📄 View](https://github.com/mostafashazly7/hands-on-ml-notes/blob/main/notes%20eng/Chapter%204%20ML.pdf) · [⬇️ Download](https://github.com/mostafashazly7/hands-on-ml-notes/raw/main/notes%20eng/Chapter%204%20ML.pdf) |
-| 5 | Support Vector Machines | [📄 View](https://github.com/mostafashazly7/hands-on-ml-notes/blob/main/notes%20arb/Chapter%205%20ML.pdf) · [⬇️ Download](https://github.com/mostafashazly7/hands-on-ml-notes/raw/main/notes%20arb/Chapter%205%20ML.pdf) | [📄 View](https://github.com/mostafashazly7/hands-on-ml-notes/blob/main/notes%20eng/Chapter%205%20ML.pdf) · [⬇️ Download](https://github.com/mostafashazly7/hands-on-ml-notes/raw/main/notes%20eng/Chapter%205%20ML.pdf) |
-| 6 | Decision Trees | [📄 View](https://github.com/mostafashazly7/hands-on-ml-notes/blob/main/notes%20arb/Chapter%206%20ML.pdf) · [⬇️ Download](https://github.com/mostafashazly7/hands-on-ml-notes/raw/main/notes%20arb/Chapter%206%20ML.pdf) | [📄 View](https://github.com/mostafashazly7/hands-on-ml-notes/blob/main/notes%20eng/Chapter%206%20ML.pdf) · [⬇️ Download](https://github.com/mostafashazly7/hands-on-ml-notes/raw/main/notes%20eng/Chapter%206%20ML.pdf) |
+| 1 | The Machine Learning Landscape | [📄 View](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/mostafashazly7/hands-on-ml-notes/main/notes%20arb/Chapter%201%20ML.pdf) · [⬇️ Download](https://raw.githubusercontent.com/mostafashazly7/hands-on-ml-notes/main/notes%20arb/Chapter%201%20ML.pdf) | [📄 View](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/mostafashazly7/hands-on-ml-notes/main/notes%20eng/Chapter%201%20ML.pdf) · [⬇️ Download](https://raw.githubusercontent.com/mostafashazly7/hands-on-ml-notes/main/notes%20eng/Chapter%201%20ML.pdf) |
+| 2 | End-to-End Machine Learning Project | [📄 View](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/mostafashazly7/hands-on-ml-notes/main/notes%20arb/Chapter%202%20ML.pdf) · [⬇️ Download](https://raw.githubusercontent.com/mostafashazly7/hands-on-ml-notes/main/notes%20arb/Chapter%202%20ML.pdf) | [📄 View](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/mostafashazly7/hands-on-ml-notes/main/notes%20eng/Chapter%202%20ML.pdf) · [⬇️ Download](https://raw.githubusercontent.com/mostafashazly7/hands-on-ml-notes/main/notes%20eng/Chapter%202%20ML.pdf) |
+| 3 | Classification | [📄 View](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/mostafashazly7/hands-on-ml-notes/main/notes%20arb/Chapter%203%20ML.pdf) · [⬇️ Download](https://raw.githubusercontent.com/mostafashazly7/hands-on-ml-notes/main/notes%20arb/Chapter%203%20ML.pdf) | [📄 View](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/mostafashazly7/hands-on-ml-notes/main/notes%20eng/Chapter%203%20ML.pdf) · [⬇️ Download](https://raw.githubusercontent.com/mostafashazly7/hands-on-ml-notes/main/notes%20eng/Chapter%203%20ML.pdf) |
+| 4 | Training Models | [📄 View](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/mostafashazly7/hands-on-ml-notes/main/notes%20arb/Chapter%204%20ML.pdf) · [⬇️ Download](https://raw.githubusercontent.com/mostafashazly7/hands-on-ml-notes/main/notes%20arb/Chapter%204%20ML.pdf) | [📄 View](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/mostafashazly7/hands-on-ml-notes/main/notes%20eng/Chapter%204%20ML.pdf) · [⬇️ Download](https://raw.githubusercontent.com/mostafashazly7/hands-on-ml-notes/main/notes%20eng/Chapter%204%20ML.pdf) |
+| 5 | Support Vector Machines | [📄 View](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/mostafashazly7/hands-on-ml-notes/main/notes%20arb/Chapter%205%20ML.pdf) · [⬇️ Download](https://raw.githubusercontent.com/mostafashazly7/hands-on-ml-notes/main/notes%20arb/Chapter%205%20ML.pdf) | [📄 View](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/mostafashazly7/hands-on-ml-notes/main/notes%20eng/Chapter%205%20ML.pdf) · [⬇️ Download](https://raw.githubusercontent.com/mostafashazly7/hands-on-ml-notes/main/notes%20eng/Chapter%205%20ML.pdf) |
+| 6 | Decision Trees | [📄 View](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/mostafashazly7/hands-on-ml-notes/main/notes%20arb/Chapter%206%20ML.pdf) · [⬇️ Download](https://raw.githubusercontent.com/mostafashazly7/hands-on-ml-notes/main/notes%20arb/Chapter%206%20ML.pdf) | [📄 View](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/mostafashazly7/hands-on-ml-notes/main/notes%20eng/Chapter%206%20ML.pdf) · [⬇️ Download](https://raw.githubusercontent.com/mostafashazly7/hands-on-ml-notes/main/notes%20eng/Chapter%206%20ML.pdf) |
 | 7 | Ensemble Learning and Random Forests | ⏳ Soon | ⏳ Soon |
 | 8 | Dimensionality Reduction | ⏳ Soon | ⏳ Soon |
 | 9 | Unsupervised Learning Techniques | ⏳ Soon | ⏳ Soon |
@@ -61,9 +57,9 @@ Each chapter PDF mixes **my handwritten notes**, **completed missing points**, *
 | 14 | Deep Computer Vision Using Convolutional Neural Networks | ⏳ Soon | ⏳ Soon |
 | 15 | Processing Sequences Using RNNs and CNNs | ⏳ Soon | ⏳ Soon |
 | 16 | Natural Language Processing with RNNs and Attention | ⏳ Soon | ⏳ Soon |
-| 17 |
-
-> When a new chapter is added, replace `⏳ Soon` with the View and Download links (Arabic and English) and update the **Chapters** badge at the top.
+| 17 | Autoencoders, GANs, and Diffusion Models | ⏳ Soon | ⏳ Soon |
+| 18 | Reinforcement Learning | ⏳ Soon | ⏳ Soon |
+| 19 | Training and Deploying TensorFlow Models at Scale | ⏳ Soon | ⏳ Soon |
 
 ---
 
